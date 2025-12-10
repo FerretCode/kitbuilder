@@ -1,0 +1,48 @@
+{
+    "client_id": "",
+    "client_secret": "",
+    "search_prefix": "",
+    "max_duration": 5,
+    "download_timeout_seconds": 10,
+    "output_dir": "./sounds",
+    "samples_source": "samplefocus",
+    "google_chrome_path": "/usr/bin/google-chrome-stable",
+    "categories": [
+        {
+            "name": "snare",
+            "number_sounds": 10
+        },
+        {
+            "name": "kick",
+            "number_sounds": 10
+        },
+        {
+            "name": "perc",
+            "number_sounds": 10
+        },
+        {
+            "name": "hihat",
+            "number_sounds": 10
+        },
+        {
+            "name": "openhat",
+            "number_sounds": 10
+        },
+        {
+            "name": "foley",
+            "number_sounds": 10
+        },
+        {
+            "name": "video game sfx",
+            "number_sounds": 10
+        },
+        {
+            "name": "chimes",
+            "number_sounds": 10
+        },
+        {
+            "name": "field recording",
+            "number_sounds": 10
+        }
+    ]
+}
